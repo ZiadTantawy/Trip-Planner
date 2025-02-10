@@ -1,4 +1,5 @@
 import React from "react";
+import {Checkbox} from "@heroui/react";
 
 const LandingPage = () => {
   return (
@@ -9,6 +10,8 @@ const LandingPage = () => {
       <h1 className=" text-center font-bold underline text-red-500">
         Hello world!
       </h1>
+
+     
     </div>
   );
 };
